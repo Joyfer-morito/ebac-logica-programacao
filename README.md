@@ -1,5 +1,3 @@
-# ebac-logica-programacao
-
 ## O que Tem Aqui
 - **calculoMDC.js**: Implementação do cálculo do Máximo Divisor Comum (MDC).
 - **indicesArray.js**: Exercício sobre manipulação de arrays e seus índices.
